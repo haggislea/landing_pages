@@ -8,9 +8,11 @@
 }
 
 .first_colour_circle{
- background-color: yellow;
- width: 128px;
- height: 128px;
+  border-radius:60px;
+ background: yellow;
+ width: 18px;
+ height: 18px;
+
 }
 
 
@@ -23,7 +25,10 @@
 }
 
 .second_colour_circle{
-
+  border-radius:60px;
+ background: purple;
+ width: 18px;
+ height: 18px;
 }
 
 .thirdCircle{
@@ -35,7 +40,10 @@
 }
 
 .third_colour_circle{
-
+  border-radius:60px;
+ background: lightblue;
+ width: 18px;
+ height: 18px;
 }
 
 .fourthCircle{
@@ -47,7 +55,10 @@ height: 120px;
 }
 
 .fourth_colour_circle{
-
+  border-radius:60px;
+ background: orange;
+ width: 18px;
+ height: 18px;
 }
 
 .fifthCircle{
@@ -59,7 +70,10 @@ height: 120px;
 }
 
 .fifth_colour_circle{
-
+  border-radius:60px;
+ background: pink;
+ width: 18px;
+ height: 18px;
 }
 
 .sixthCircle{
@@ -71,5 +85,8 @@ height: 120px;
 }
 
 .sixth_colour_circle{
-
+  border-radius:60px;
+ background: aquamarine;
+ width: 18px;
+ height: 18px;
 }
