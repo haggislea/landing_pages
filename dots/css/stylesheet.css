@@ -1,24 +1,26 @@
 
 .firstCircle{
-border-radius: 50%;
-border: 2px black;
-background: green;
-width: 120px;
-height: 120px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background: none;
+  width: 120px;
+  height: 120px;
 }
 
 .secondCircle{
-border-radius: 50%;
-background: green;
-width: 120px;
-height: 120px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background: none;
+  width: 120px;
+  height: 120px;
 }
 
 .thirdCircle{
-border-radius: 50%;
-background: green;
-width: 120px;
-height: 120px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background: none;
+  width: 120px;
+  height: 120px;
 }
 
 .fourthCircle{
@@ -30,15 +32,17 @@ height: 120px;
 }
 
 .fifthCircle{
-border-radius: 50%;
-background: green;
-width: 120px;
-height: 120px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background: none;
+  width: 120px;
+  height: 120px;
 }
 
 .sixthCircle{
-border-radius: 50%;
-background: green;
-width: 120px;
-height: 120px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background: none;
+  width: 120px;
+  height: 120px;
 }
