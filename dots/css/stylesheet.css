@@ -5,89 +5,114 @@
   background: none;
   width: 120px;
   height: 120px;
+  margin-top: -60px;
+  margin-left: 200px;
 }
 
 .first_colour_circle{
-  border-radius:60px;
+ border-radius:60px;
  background: yellow;
- width: 18px;
- height: 18px;
+ opacity: 0.65;
+ width: 125px;
+ height: 125px;
+ margin-top: -120px;
+ margin-left: 210px;
 
 }
-
 
 .secondCircle{
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid grey;
   background: none;
   width: 120px;
   height: 120px;
+  margin-left: 620px;
+  margin-top: 40px;
 }
 
 .second_colour_circle{
-  border-radius:60px;
+ border-radius:60px;
  background: purple;
- width: 18px;
- height: 18px;
+ opacity: 0.50;
+ width: 125px;
+ height: 125px;
+ margin-left: 630px;
+ margin-top: -120px;
 }
 
 .thirdCircle{
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid grey;
   background: none;
   width: 120px;
   height: 120px;
+  margin-left: 40px;
 }
 
 .third_colour_circle{
   border-radius:60px;
  background: blue;
  opacity: 0.35;
- width: 88px;
- height: 88px;
+ width: 125px;
+ height: 125px;
+ margin-top: -114px;
+ margin-left: 42px;
 }
 
 .fourthCircle{
 border-radius: 50%;
-border: 1px solid black;
+  border: 1px solid grey;
 background: none;
 width: 120px;
 height: 120px;
+margin-top: 60px;
+margin-left: 400px;
 }
 
 .fourth_colour_circle{
-  border-radius:60px;
+ border-radius:60px;
  background: orange;
- width: 18px;
- height: 18px;
+ opacity: 0.55;
+ width: 125px;
+ height: 125px;
+ margin-top: -118px;
+ margin-left: 400px;
 }
 
 .fifthCircle{
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid grey;
   background: none;
   width: 120px;
   height: 120px;
+  margin-left: 920px;
 }
 
 .fifth_colour_circle{
   border-radius:60px;
  background: pink;
- width: 18px;
- height: 18px;
+ opacity: 0.80;
+ width: 125px;
+ height: 125px;
+ margin-top: -126px;
+ margin-left: 924px;
 }
 
 .sixthCircle{
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid grey;
   background: none;
   width: 120px;
   height: 120px;
+ margin-bottom: -118px;
 }
 
 .sixth_colour_circle{
   border-radius:60px;
  background: aquamarine;
- width: 18px;
- height: 18px;
+ opacity: 0.75;
+ width: 125px;
+ height: 125px;
+ margin-left: 4px;
+
 }
