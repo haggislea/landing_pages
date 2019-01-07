@@ -7,12 +7,23 @@
   height: 120px;
 }
 
+.first_colour_circle{
+ background-color: yellow;
+ width: 128px;
+ height: 128px;
+}
+
+
 .secondCircle{
   border-radius: 50%;
   border: 1px solid black;
   background: none;
   width: 120px;
   height: 120px;
+}
+
+.second_colour_circle{
+
 }
 
 .thirdCircle{
@@ -23,12 +34,20 @@
   height: 120px;
 }
 
+.third_colour_circle{
+
+}
+
 .fourthCircle{
 border-radius: 50%;
 border: 1px solid black;
 background: none;
 width: 120px;
 height: 120px;
+}
+
+.fourth_colour_circle{
+
 }
 
 .fifthCircle{
@@ -39,10 +58,18 @@ height: 120px;
   height: 120px;
 }
 
+.fifth_colour_circle{
+
+}
+
 .sixthCircle{
   border-radius: 50%;
   border: 1px solid black;
   background: none;
   width: 120px;
   height: 120px;
+}
+
+.sixth_colour_circle{
+
 }
