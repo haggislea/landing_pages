@@ -1,7 +1,7 @@
 
 .firstCircle{
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid grey;
   background: none;
   width: 120px;
   height: 120px;
@@ -41,9 +41,10 @@
 
 .third_colour_circle{
   border-radius:60px;
- background: lightblue;
- width: 18px;
- height: 18px;
+ background: blue;
+ opacity: 0.35;
+ width: 88px;
+ height: 88px;
 }
 
 .fourthCircle{
