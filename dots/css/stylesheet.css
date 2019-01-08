@@ -1,4 +1,8 @@
 
+main{
+  width: auto;
+}
+
 .firstCircle{
   border-radius: 50%;
   border: 1px solid grey;
