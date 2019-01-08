@@ -1,6 +1,7 @@
 
 main{
   width: auto;
+  justify-content: flex-end;
 }
 
 .firstCircle{
